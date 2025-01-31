@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1f908dbf-4f90-4bc3-9118-dc0dd51f8770" alt="mg_logo">
+  <img src="https://github.com/user-attachments/assets/874105d1-57c7-42a9-a24f-91fb08a4d3b4" alt="mg_logo">
 </p>
 
 ## Mundo Gaturro Desktop
