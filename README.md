@@ -18,6 +18,9 @@ Aplicación de escritorio oficial de **Mundo Gaturro**. Incluye la última versi
 - Descarga el instalador desde uno de los enlaces anteriores.
 - Ejecuta el archivo `.exe` y sigue las instrucciones
 
+### Contacto:
+- **Twitter:** [@ZERO](https://x.com/sseqwesad11629) ✉️
+
 ### Imágenes:
 <a href="https://github.com/user-attachments/assets/3a872983-cb09-4619-931f-13e53d77355a">
   <img src="https://github.com/user-attachments/assets/3a872983-cb09-4619-931f-13e53d77355a" width="200">
