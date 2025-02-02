@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/874105d1-57c7-42a9-a24f-91fb08a4d3b4" alt="mg_logo">
+  <img src="https://github.com/user-attachments/assets/874105d1-57c7-42a9-a24f-91fb08a4d3b4">
 </p>
 
 ![Descargas](https://img.shields.io/github/downloads/zer-mg/mundogaturro-installers/total?style=flat-square)
@@ -20,14 +20,13 @@ Aplicación de escritorio oficial de **Mundo Gaturro**. Incluye la última versi
 - Si tienes una versión antigua instalada, desinstálala primero.
 - Descarga el instalador desde uno de los enlaces anteriores.
 - Ejecuta el archivo `.exe` y sigue las instrucciones
+#### 🔒 Seguridad:
+- Si al ejecutar el instalador aparece una advertencia de **Windows Defender SmartScreen**, esto se debe a que el archivo no está firmado digitalmente por una entidad reconocida. SmartScreen puede mostrar una alerta para advertir sobre archivos que no han sido verificados.
+- Esta advertencia no significa que el instalador sea peligroso. Puedes continuar con la instalación de forma segura seleccionando "Ejecutar de todos modos" si confías en el origen del archivo.
 
 ### Contacto:
-- **Twitter:** [@ZERO](https://x.com/sseqwesad11629) ✉️
+- **Twitter:** [@ZERO](https://x.com/zer_mg11) ✉️
 
 ### Imágenes:
-<a href="https://github.com/user-attachments/assets/3a872983-cb09-4619-931f-13e53d77355a">
-  <img src="https://github.com/user-attachments/assets/3a872983-cb09-4619-931f-13e53d77355a" width="200">
-</a>
-<a href="https://github.com/user-attachments/assets/87ee4410-737e-41ad-a1d1-b3d5792df8fe">
-  <img src="https://github.com/user-attachments/assets/87ee4410-737e-41ad-a1d1-b3d5792df8fe" width="200">
-</a>
+<img src="https://github.com/user-attachments/assets/3a872983-cb09-4619-931f-13e53d77355a">
+<img src="https://github.com/user-attachments/assets/87ee4410-737e-41ad-a1d1-b3d5792df8fe">
