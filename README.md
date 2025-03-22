@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/874105d1-57c7-42a9-a24f-91fb08a4d3b4">
 </p>
 
-![Descargas](https://img.shields.io/github/downloads/zer-mg/mundogaturro-installers/total?style=flat-square)
+![Total](https://img.shields.io/github/downloads/zer-mg/mundogaturro-installers/total?style=flat-square)
 ![Version](https://img.shields.io/github/v/release/zer-mg/mundogaturro-installers?style=flat-square)
 
 ## Mundo Gaturro Desktop
@@ -10,8 +10,10 @@ Aplicación de escritorio oficial de **Mundo Gaturro**. Incluye la última versi
 
 ### Descargas:
 #### 📌 Opciones disponibles:
-- [Descargar desde el sitio oficial](https://login.mundogaturro.com/) (recomendado)
-- [Última versión en GitHub](https://github.com/zer-mg/mundogaturro-installers/releases/latest/)
+- [Sitio oficial](https://login.mundogaturro.com/)
+- [Descargar para x32](https://github.com/zer-mg/mundogaturro-installers/releases/latest/download/mundogaturro_installer_x32.exe)
+- [Descargar para x64](https://github.com/zer-mg/mundogaturro-installers/releases/latest/download/mundogaturro_installer_x64.exe)
+
 #### 📂 Requisitos:
 - **Windows** 7, 8, 10, 11 (x32/x64)
 - Espacio en disco: ~150 MB
