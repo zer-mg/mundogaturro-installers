@@ -30,5 +30,5 @@ Aplicación de escritorio oficial de **Mundo Gaturro**. Incluye la última versi
 - **Twitter:** [@ZERO](https://x.com/zer_mg11) ✉️
 
 ### Imágenes:
-<img src="https://github.com/user-attachments/assets/3a872983-cb09-4619-931f-13e53d77355a">
-<img src="https://github.com/user-attachments/assets/87ee4410-737e-41ad-a1d1-b3d5792df8fe">
+<img src="https://github.com/user-attachments/assets/96f33842-0f06-41c7-90a0-bb477132a3ea">
+<img src="https://github.com/user-attachments/assets/71066c84-b4dd-4967-b0fa-0a7e00068d8c">
